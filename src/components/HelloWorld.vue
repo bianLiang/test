@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }} {{ arrP }}</h1>
+    <h2>hahdai</h2>
     <Child @change='getVal'></Child>
   </div>
 </template>
